@@ -1,6 +1,10 @@
-# Auto BOM Inventory
+<div align="center">
 
-BOM 기반 자동차 의장 공정 재고 관리 시스템
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=BOM-Based+Inventory+Management;Automotive+Parts+Cost+%26+Stock+Tracking;Vue+3+%2B+Spring+Boot+%2B+MySQL)](https://git.io/typing-svg)
+
+</div>
+
+# 🚗 BOM 기반 자동차 의장 공정 재고 관리 시스템
 
 ## 프로젝트 소개
 
@@ -75,29 +79,28 @@ Auto BOM Inventory는 자동차 의장 공정에서 사용되는 부품, 자재,
 
 ### Frontend
 
-- Vue 3
-- JavaScript
-- HTML/CSS
-- Vue Router
-- Pinia
-- Axios
+![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue Router](https://img.shields.io/badge/Vue_Router-Routing-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-State_Management-FFD859?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-API_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### Backend
 
-- Spring Boot
-- Java
-- MyBatis
-- REST API
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Language-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-SQL_Mapper-BF0000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-Architecture-009688?style=for-the-badge)
 
-### Database
+### Database/Deployment
 
-- MySQL
-- Aiven DB
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-Cloud_DB-FF5722?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend_Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Deployment
-
-- Vercel
-- GitHub
 
 ## 시스템 구조
 
