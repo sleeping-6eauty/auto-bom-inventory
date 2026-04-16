@@ -1,0 +1,15 @@
+[submodule "vue-pjt-backend"]
+	path = vue-pjt-backend
+	url = https://github.com/sleeping-6eauty/vue-pjt-backend
+[submodule "vue-pjt-frontend"]
+	path = vue-pjt-frontend
+	url = https://github.com/sleeping-6eauty/vue-pjt-frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sleeping-6eauty/vue-pjt-frontend
+[submodule "backedn"]
+	path = backedn
+	url = https://github.com/sleeping-6eauty/vue-pjt-backend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sleeping-6eauty/vue-pjt-backend
